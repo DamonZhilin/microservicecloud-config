@@ -12,4 +12,4 @@ spring:
    profiles: test
    application: 
       name: microservicecloud-config-atguigu-test
-#请保存为UTF-8 test
+#请保存为UTF-8 test 密码
